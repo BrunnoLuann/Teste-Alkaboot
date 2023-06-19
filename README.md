@@ -44,7 +44,6 @@ Instale as dependências:
   <li>npm install</li>
   <li>npm install Styled-Components</li>
   <li>npm install axios</li>
-  <li>npm install react-router-dom@5.2</li>
 </ol>
 
 ## Inicie o projeto:
